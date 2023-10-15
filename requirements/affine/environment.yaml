@@ -1,0 +1,21 @@
+name: imgreg
+channels:
+  - conda-forge
+  - pytorch
+  - fastai
+  - nodefaults
+dependencies:
+  - python=3.8
+  - cudatoolkit=11.1.1
+  - cudatoolkit-dev=11.1.1
+  - pytorch::pytorch=1.8.1=py3.8_cuda11.1_cudnn8.0.5_0
+  - simpleitk=2.2.1
+  - fastai::opencv-python-headless=4.7.0.72
+  - ninja=1.11.1
+  - gcc=9.5.0
+  - gxx=9.5.0
+  - poetry=1.6.1
+  - mamba
+  - conda-lock
+platforms:
+  - linux-64

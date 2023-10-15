@@ -1,0 +1,15 @@
+# ninja log v5
+0	6908	1693645435642592211	/home/ivan/repos/ImgRegWithTransformers/networks/QuadTreeAttention/build/temp.linux-x86_64-3.8/QuadtreeAttention/src/score_computation.o	e820a7acca0709e4
+0	6621	1693647023	/home/ivan/repos/ImgRegWithTransformers/networks/QuadTreeAttention/build/temp.linux-x86_64-3.8/QuadtreeAttention/src/score_computation.o	e820a7acca0709e4
+1	13753	1693648321	/home/ivan/repos/ImgRegWithTransformers/networks/QuadTreeAttention/build/temp.linux-x86_64-3.8/QuadtreeAttention/src/score_computation_kernal.o	d07f72176d58147f
+0	8311	1693648330	/home/ivan/repos/ImgRegWithTransformers/networks/QuadTreeAttention/build/temp.linux-x86_64-3.8/QuadtreeAttention/src/value_aggregation.o	d1fa30c2f757bfb3
+0	12982	1693648334	/home/ivan/repos/ImgRegWithTransformers/networks/QuadTreeAttention/build/temp.linux-x86_64-3.8/QuadtreeAttention/src/value_aggregation_kernel.o	506ebbca83276cc1
+1	8397	1693667800497910875	/home/ivan/repos/ImgRegWithTransformers/networks/QuadTreeAttention/build/temp.linux-x86_64-3.8/QuadtreeAttention/src/score_computation.o	8943d97bfd3a78d6
+1	14063	1693667806166131424	/home/ivan/repos/ImgRegWithTransformers/networks/QuadTreeAttention/build/temp.linux-x86_64-3.8/QuadtreeAttention/src/score_computation_kernal.o	5778db05876cb1b5
+1	8290	1693667814642461237	/home/ivan/repos/ImgRegWithTransformers/networks/QuadTreeAttention/build/temp.linux-x86_64-3.8/QuadtreeAttention/src/value_aggregation.o	76c8bcf73e8945c3
+1	12830	1693667819186638051	/home/ivan/repos/ImgRegWithTransformers/networks/QuadTreeAttention/build/temp.linux-x86_64-3.8/QuadtreeAttention/src/value_aggregation_kernel.o	9228deaa7c66901c
+2	13799	1693724543620382633	/home/ivan/repos/ImgRegWithTransformers/networks/QuadTreeAttention/build/temp.linux-x86_64-3.8/QuadtreeAttention/src/score_computation_kernal.o	5778db05876cb1b5
+3	12403	1693724556220895540	/home/ivan/repos/ImgRegWithTransformers/networks/QuadTreeAttention/build/temp.linux-x86_64-3.8/QuadtreeAttention/src/value_aggregation_kernel.o	9228deaa7c66901c
+2	12520	1693724874277842092	/home/ivan/repos/ImgRegWithTransformers/networks/QuadTreeAttention/build/temp.linux-x86_64-3.8/QuadtreeAttention/src/value_aggregation_kernel.o	9228deaa7c66901c
+2	13900	1693806376439773449	/home/ivan/repos/ImgRegWithTransformers/networks/QuadTreeAttention/build/temp.linux-x86_64-3.8/QuadtreeAttention/src/score_computation_kernal.o	5778db05876cb1b5
+2	12796	1693806389432264980	/home/ivan/repos/ImgRegWithTransformers/networks/QuadTreeAttention/build/temp.linux-x86_64-3.8/QuadtreeAttention/src/value_aggregation_kernel.o	9228deaa7c66901c

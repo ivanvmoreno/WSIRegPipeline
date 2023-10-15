@@ -1,0 +1,9 @@
+name: valis
+channels:
+  - conda
+  - conda-forge
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.10
+  - poetry=1.6.1

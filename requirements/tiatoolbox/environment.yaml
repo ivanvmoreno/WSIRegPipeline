@@ -1,0 +1,15 @@
+name: tiatoolbox
+channels:
+  - conda
+  - conda-forge
+  - pytorch
+  - nvidia
+  - defaults
+dependencies:
+  - python=3.10
+  - cython
+  - cudatoolkit=11.8
+  - pytorch::pytorch=2.0.0=py3.10_cuda11.8_cudnn8.7.0_0
+  - openslide
+  - pixman>=0.39.0
+  - poetry=1.6.1

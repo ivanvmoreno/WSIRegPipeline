@@ -1,0 +1,40 @@
+[tool.poetry]
+name = "imgregwithtransformers"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "~3.8"
+torch = "1.8.1"
+simpleitk = "2.2.1"
+opencv-python = "4.7.0.72"
+torchvision = { version = "0.9.1+cu111", source = "pytorch-cu111" }
+matplotlib = "^3.7.2"
+pandas = "2.0.2"
+scipy = "1.9.3"
+scikit-image = "^0.21.0"
+torchsummary = "1.5.1"
+yacs = "^0.1.8"
+joblib = "^1.3.2"
+loguru = "^0.7.0"
+pytorch-lightning = "1.6"
+einops = "^0.6.1"
+timm = "^0.9.7"
+kornia = "0.6.8"
+
+
+[[tool.poetry.source]]
+name = "pytorch-cu111"
+url = "https://download.pytorch.org/whl/cu111/"
+priority = "explicit"
+
+
+[tool.poetry.group.dev.dependencies]
+jupyterlab = "^4.0.5"
+matplotlib = "^3.7.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
